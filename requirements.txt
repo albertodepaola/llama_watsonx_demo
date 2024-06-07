@@ -1,0 +1,6 @@
+transformers
+jupyter
+jupytext
+bitsandbytes
+accelerate
+huggingface_hub
