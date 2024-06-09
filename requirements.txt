@@ -4,3 +4,5 @@ jupytext
 bitsandbytes
 accelerate
 huggingface_hub
+ibm_watson_machine_learning==1.0.359
+python_dotenv
